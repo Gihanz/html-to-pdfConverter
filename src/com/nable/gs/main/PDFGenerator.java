@@ -1,5 +1,5 @@
 package com.nable.gs.main;
-LLLLLLLLLLLL
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
